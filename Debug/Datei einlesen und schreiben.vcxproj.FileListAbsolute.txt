@@ -1,0 +1,2 @@
+A:\Datei einlesen und schreiben\Debug\Datei einlesen und schreiben.exe
+A:\Datei einlesen und schreiben\Debug\Datei einlesen und schreiben.pdb
